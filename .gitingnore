@@ -1,0 +1,61 @@
+# Общие файлы для .NET
+bin/
+obj/
+
+# Сборочные артефакты
+*.dll
+*.exe
+*.log
+*.sql
+*.pdb
+*.cache
+*.tmp
+
+# Конфигурационные файлы среды разработки
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vscode/
+
+# Файлы для NuGet
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Логи и временные файлы
+*.log
+*.tlog
+*.vspscc
+*.vssscc
+*.ncrunch*
+*.[Cc]ache/
+*.[Ll]og/
+
+# Файлы тестовых фреймворков
+TestResults/
+*.coverage
+*.coveragexml
+*.trx
+
+# Rider
+.idea/
+*.sln.iml
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Visual Studio Code
+.vscode/
+
+# Пакеты
+packages/

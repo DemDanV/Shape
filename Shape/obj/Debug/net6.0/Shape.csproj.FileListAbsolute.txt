@@ -1,0 +1,17 @@
+D:\Pojects\C#\Task\Shape\Shape\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Pojects\C#\Task\Shape\Shape\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+D:\Pojects\C#\Task\Shape\Shape\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+D:\Pojects\C#\Task\Shape\Shape\bin\Debug\net6.0\Shape.deps.json
+D:\Pojects\C#\Task\Shape\Shape\bin\Debug\net6.0\Shape.runtimeconfig.json
+D:\Pojects\C#\Task\Shape\Shape\bin\Debug\net6.0\Shape.dll
+D:\Pojects\C#\Task\Shape\Shape\bin\Debug\net6.0\Shape.pdb
+D:\Pojects\C#\Task\Shape\Shape\obj\Debug\net6.0\Shape.csproj.AssemblyReference.cache
+D:\Pojects\C#\Task\Shape\Shape\obj\Debug\net6.0\Shape.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pojects\C#\Task\Shape\Shape\obj\Debug\net6.0\Shape.AssemblyInfoInputs.cache
+D:\Pojects\C#\Task\Shape\Shape\obj\Debug\net6.0\Shape.AssemblyInfo.cs
+D:\Pojects\C#\Task\Shape\Shape\obj\Debug\net6.0\Shape.csproj.CoreCompileInputs.cache
+D:\Pojects\C#\Task\Shape\Shape\obj\Debug\net6.0\Shape.dll
+D:\Pojects\C#\Task\Shape\Shape\obj\Debug\net6.0\refint\Shape.dll
+D:\Pojects\C#\Task\Shape\Shape\obj\Debug\net6.0\Shape.pdb
+D:\Pojects\C#\Task\Shape\Shape\obj\Debug\net6.0\Shape.genruntimeconfig.cache
+D:\Pojects\C#\Task\Shape\Shape\obj\Debug\net6.0\ref\Shape.dll
